@@ -100,7 +100,6 @@ pairs = [
         ('LEJ', 'PUJ'),
         ('HAM', 'PUJ'),
         ('HAJ', 'PUJ'),
-        ('GWT', 'PUJ'),
         ('NUE', 'PUJ'),
         ('STR', 'PUJ'),
         ('ZRH', 'PUJ'),
