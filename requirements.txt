@@ -1,2 +1,2 @@
 paramiko
-dotenv
+python-dotenv
